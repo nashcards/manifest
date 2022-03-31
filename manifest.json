@@ -8,7 +8,7 @@
   "start_url": "https://log.nashcards.com/login",
   "icons": [
     {
-      "src": "https://ucarecdn.com/554d3ecc-2271-462d-bbf1-c4f0a566d300/icon72x72.png",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1642263425/client/nashcards/mailLogo1_4x_gojdf0.png",
       "sizes": "72x72",
       "type": "image/png"
     },
