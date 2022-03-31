@@ -8,17 +8,17 @@
   "start_url": "https://log.nashcards.com/login",
   "icons": [
     {
-      "src": "https://res.cloudinary.com/tadabase/image/upload/v1642263425/client/nashcards/mailLogo1_4x_gojdf0.png",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1648752011/client/nashcards/72_fyuurv.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://ucarecdn.com/ac1d85af-c8d9-4276-ac37-e499b4eb35a4/icon96x96.png",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1648752035/client/nashcards/96_mnhn2q.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://ucarecdn.com/cf61de06-9c48-4d5c-84a3-658b2c4fc7f0/icon128x128.png",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1648752057/client/nashcards/128_dqualp.png",
       "sizes": "128x128",
       "type": "image/png"
     },
